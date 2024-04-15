@@ -1,6 +1,3 @@
-# image-update-guide
-Image update guide
-
 比较常见的一个场景是：
 
 ```mermaid
